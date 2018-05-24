@@ -35,7 +35,7 @@ module Players
     end
 
     def timer
-      sleep(6)
+      sleep(4)
     end
 
   end
